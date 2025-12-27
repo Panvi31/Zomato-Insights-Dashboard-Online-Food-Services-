@@ -13,4 +13,5 @@ Interactive Power BI dashboard analyzing customer behavior and delivery operatio
 - Identified top restaurants and order trends
 
 ## Dashboard Preview
-
+![Dashboard](M4.png)
+![Dashboard](M5.png)
